@@ -2,6 +2,6 @@
 <li>
   <ul><b>Branches</b><ul>
   <li>
-    <ul><b>materias</b>: documentos/ exercícios utilizados nas ministradas</ul>
+    <ul><b>materias</b>: documentos/ exercícios utilizados durante as aulas</ul>
   </li>  
 </li>
