@@ -1,7 +1,2 @@
-<p>Repositório para compartilhamento de documentos referentes ao grupo de alunos pertencentes ao projeto SouFarol.</p>
-<li>
-  <ul><b>Branches</b><ul>
-  <li>
-    <ul><b>materias</b>: documentos/ exercícios utilizados durante as aulas</ul>
-  </li>  
-</li>
+<p><b>Branch: TCC</b></p>
+<p>Documentos e arquivos relacionados ao TCC.</p>
